@@ -1,3 +1,5 @@
+![](https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_600_2000/0/1665494659870?e=2147483647&v=beta&t=rn_4rvDOuUwWD7Qb0_wZczta12SlSO-5izcoSVahvsw)
+
 <h1 align="center">Hi 👋, I'm Ravi Kanth Mutyam</h1>
 
 <h3 align="center">A passionate about data science and ML</h3>
