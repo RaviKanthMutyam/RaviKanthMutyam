@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! Hi 👋, My name is Ravi Kanth Mutyam
+Welcome to My GitHub Profile! Hi 👋, My name is Ravi Kanth Mutyam
 
 ## About Me
 
