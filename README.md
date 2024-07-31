@@ -1,8 +1,8 @@
-Welcome to My GitHub Profile! Hi 👋, My name is Ravi Kanth Mutyam
+<h1 align="center">Hi 👋, I'm Ravi Kanth Mutyam</h1>
 
-## About Me
+<h3 align="center">A passionate about data science and ML</h3>
 
-A passionate about data science and ML. I have hands-on experience and skills in SQL, Python, Machine Learning, Power BI, Data Mining, Data Analysis, and Problem-Solving. I'm excited to leverage these skills to drive insights and create value in the data science domain.
+![](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 👨‍💻 All of my projects are available at https://github.com/RaviKanthMutyam?tab=repositories
 
